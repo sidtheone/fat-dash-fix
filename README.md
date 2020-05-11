@@ -1,6 +1,8 @@
 # fat-dash-fix
 Temporary script to support fat-dash for kovaaks aim trainer
 
+As this is temporary, and a script , I take no resposibility of improper usage and loss of data due to this script. Please take proper care while running.
+
 Usage
 Download and install Python 2.7 and add python to path
 
