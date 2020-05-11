@@ -18,3 +18,5 @@ Let it work.
 Enjoy 
 
 Note: This reads all csv file in the folder/directories. please use with caution.
+
+Note: For safety sake . Please make a copy of the stats directory and run this script there.
