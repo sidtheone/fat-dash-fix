@@ -5,8 +5,8 @@ As this is temporary, and a script , I take no resposibility of improper usage a
 
 Usage:
 
-1) Download and install Python 2.7 
-2) add python to path
+1) Download and install Python 2.7 (some people cant use google so https://www.python.org/download/releases/2.7/) 
+2) make sure to add python to path(dont autoamtically usually is a checkbox somewhere in the installer) 
 
 You may need to restart PC.
 
