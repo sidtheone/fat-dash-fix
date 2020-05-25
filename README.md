@@ -1,4 +1,6 @@
 # fat-dash-fix, Not required anymore as the person has fixed the issue.
+
+# Revert Changes by Unfix script.
 Temporary script to support fat-dash for kovaaks aim trainer
 
 As this is temporary, and a script , I take no resposibility of improper usage and loss of data due to this script. Please take proper care while running.
